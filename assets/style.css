@@ -2,7 +2,7 @@ body{
     background-color: black;
 }
 .banner{
-    background-image: url(/assets/img/banner.jpeg);
+    background-image: url(./img/banner.jpeg);
     height: 350px;
     width: 100%;
     background-repeat: no-repeat;
